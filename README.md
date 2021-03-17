@@ -1,6 +1,7 @@
 # AC2-EstruturaDeDados
 AC 2 de Estrutura de Dados do Professor Takai
 
+Tentamos fazer o Ex_8 e o Ex_13 mas n conseguimos
 # Integrantes:
 
 - Giovanni Assis Lopes
